@@ -14,4 +14,4 @@
 ## To tag and push the Docker image and prepare it for a push to ACR
 
 `docker tag name_of_docker_image_tag name_of_acr.azurecr.io/azureapi/flask`
-`docker push name_of_acr.azurecr.io/azureapi/flask`
+`docker push name_of_acr.azurecr.io/azure_api/flask`
